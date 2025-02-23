@@ -7,7 +7,7 @@ Infinite Forest Terrain is an interactive Three.js project that creates the illu
 - **Infinite Terrain Illusion:**  
   The terrain is modeled using a cylinder whose surface is dynamically modified. Although the player remains stationary, the cylinder rotates to simulate movement through an endless forest.
 
-![Alt text](./assets/Screenshot from 2025-02-23 11-49-13.png)
+![Alt text](./assets/screen.png)
 
 - **Interactive Trees:**  
   Various tree models (e.g., "just_tree", low-poly trees, stylized trees, and golems) are placed on the terrain. Each model interacts differently on collision:
@@ -23,7 +23,7 @@ Infinite Forest Terrain is an interactive Three.js project that creates the illu
 - **Rotating Cylinder Terrain:**  
   Simulates an infinite forest by continuously rotating a cylinder around the player.
 
-  ![Alt Text](./assets/Capture d'écran 2025-02-21 220726.png)
+  ![Alt Text](./assets/work_screen.png)
 
   
 - **Dynamic Interactions:**  
