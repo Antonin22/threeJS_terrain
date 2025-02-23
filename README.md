@@ -56,6 +56,10 @@ Infinite Forest Terrain is an interactive Three.js project that creates the illu
    git clone https://github.com/yourusername/infinite-forest-terrain.git
    cd infinite-forest-terrain
 
+## Sources
+
+- [How to Add More Fun to a Game: Extending The Aviator](https://tympanus.net/codrops/2022/04/20/how-to-add-more-fun-to-a-game-extending-the-aviator/)
+
 
 
 
