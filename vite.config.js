@@ -3,7 +3,7 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 import glsl from 'vite-plugin-glsl';
 
 export default defineConfig({
-    base: "/three_vite/",
+    base: "/threeJS_terrain/",
     clearScreen: false,
     optimizeDeps: {
         esbuildOptions: {
